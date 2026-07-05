@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.odd-number.normal, .odd-number.unique {
+    background-color: #f08080;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    
+}
+
+.odd-number.unique {
+    font-size: 24px;
+}
+
+
+
+#second {
+    color: #0000FF;
+    font-size: 36px
+}
+
+#fourth {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 700;
+}
